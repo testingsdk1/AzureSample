@@ -1,2 +1,0 @@
-# AzureSample
-Azure Smple website
